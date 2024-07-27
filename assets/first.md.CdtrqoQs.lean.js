@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a,a2 as r}from"./chunks/framework.DOwwFb84.js";const T=JSON.parse('{"title":"Test","description":"","frontmatter":{},"headers":[],"relativePath":"first.md","filePath":"first.md"}'),i={name:"first.md"},s=r("",7),o=[s];function h(d,n,c,l,_,f){return a(),t("div",null,o)}const m=e(i,[["render",h]]);export{T as __pageData,m as default};
